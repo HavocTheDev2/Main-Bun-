@@ -1,0 +1,1 @@
+{"customer":"Jane Doe","age":25,"id":"#234502","item":"Beer","price":"$2.50","quantity":10,"maturityTag":"Adult","date_time":"July 26th 2023, 12:21:35 pm"}

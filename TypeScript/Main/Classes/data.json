@@ -1,0 +1,7 @@
+{
+  "DataBase": [
+    { "id": 0, "name": "Placeholder", "age": 0 },
+    { "id": 1, "name": "Kate", "age": 25 },
+    { "id": 2, "name": "John", "age": 30 }
+  ]
+}
